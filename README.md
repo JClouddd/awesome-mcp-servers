@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [CEA Digital B2A Institutional MCP](https://github.com/ceadigital/b2a-mcp-server)<sup><sup>⭐</sup></sup> - Sub-millisecond institutional MCP server and x402 V2 gateway ([https://ceadigital.io/mcp](https://ceadigital.io/mcp)) for crt.sh SSL/TLS Certificate Transparency recon, FIRST.org EPSS 30-day CVE exploit scoring, OSV package audits, SEC EDGAR filings, GLEIF LEI KYB, CFPB complaints, USASpending federal awards, FDIC bank health, and 17,671 Google Cloud catalog schemas.
 
 <br />
 
